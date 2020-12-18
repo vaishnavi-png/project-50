@@ -1,0 +1,32 @@
+.header{
+    color:blueviolet;
+}
+
+.meme{
+    font-size: xx-large;
+}
+
+.content{
+    color:rgb(4, 0, 255);
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    outline: auto;
+}
+
+.grid{
+    display: flex;
+    outline: auto;
+}
+
+.greeting{
+    font-size: large;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
